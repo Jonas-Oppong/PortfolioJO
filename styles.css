@@ -1,21 +1,32 @@
 body {
     color: aqua;
-    background-color: black;
+    background-color: cadetblue;
     width: 100vw;
     height: 100vh;
     margin: 0;
+}
+#ABS{
+    width: 100vw;
+    height:
+}
+#header {
+    text-align: center;
 }
 
 h1 {
     margin: 0;
 }
 
-#bio {
-    color: brown;
+#bio, #Educa{
+    color: rgb(120, 122, 242);
+    margin: 1rem;
+    padding: 2mm;
+    border-style: solid;
+    border-color: white;
 }
 
 main {
-    width: 30rem;
+    width: 50rem;
     height: 100vh;
     margin: auto;
     background-color:  #262626;
